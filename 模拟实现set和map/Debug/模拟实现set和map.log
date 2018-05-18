@@ -1,0 +1,13 @@
+﻿生成启动时间为 2018/5/16/周三 23:43:34。
+     1>项目“E:\vs练习\模拟实现set和map\模拟实现set和map\模拟实现set和map.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\VS2013\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+       Link:
+         E:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\vs练习\模拟实现set和map\Debug\模拟实现set和map.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\vs练习\模拟实现set和map\Debug\模拟实现set和map.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\vs练习\模拟实现set和map\Debug\模拟实现set和map.lib" /MACHINE:X86 Debug\test.obj
+         模拟实现set和map.vcxproj -> E:\vs练习\模拟实现set和map\Debug\模拟实现set和map.exe
+     1>已完成生成项目“E:\vs练习\模拟实现set和map\模拟实现set和map\模拟实现set和map.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.07
